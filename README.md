@@ -3,8 +3,7 @@ ___
 
 ## Code . Capture . Win
 
-Inline-style: 
-![alt text]("https://github.com/de-ci-phe-red-LABS/ctf-1/blob/master/README-imgs/poster-deciphered.png" | width=100)
+![Poster](/README-imgs/poster-deciphered.png)
 
 
 ## Points Of Contact
