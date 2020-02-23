@@ -11,3 +11,8 @@ To interact with the oracle, you need to pass a `content` argument.
 Following are a few examples -
 - `https://ctf-iitbhilai.herokuapp.com/oracle?content=ESn1Na8jbg_jlUEYKTAnF0x94l_AX-QwC0qrq_X6eO4=`
 - `https://ctf-iitbhilai.herokuapp.com/oracle?content=Z0PLVdpHCDlVPAOLAcT2_CxkCnLa0Lp13jgkHsYr0iw=`
+
+### Hints
+
+#### 1
+> Lucky13 Anyone ?
