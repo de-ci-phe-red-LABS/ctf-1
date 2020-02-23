@@ -12,3 +12,6 @@ Submit the following:
 `flag{params}`
 
 Negi Predictor: `https://ctf-iitbhilai.herokuapp.com/negi`
+
+## Flag
+> flag{e26d9945e5923b07e8f12099644c27ee}
