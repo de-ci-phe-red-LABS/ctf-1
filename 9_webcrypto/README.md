@@ -13,9 +13,9 @@ Following are a few examples -
 - `https://ctf-iitbhilai.herokuapp.com/oracle?content=Z0PLVdpHCDlVPAOLAcT2_CxkCnLa0Lp13jgkHsYr0iw=`
 
 ### Hints
-
-#### 1
 > Lucky13 Anyone ?
-
-#### 2
 > Serge Vaudenays Padding Oracle.
+
+
+### Resources
+> [Padding Oracle Attack - Robert Heaton](https://robertheaton.com/2013/07/29/padding-oracle-attack/)
