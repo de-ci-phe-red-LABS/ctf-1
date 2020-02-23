@@ -1,7 +1,9 @@
 # Welcome To The Challenge
-Given to you is an encrypted text in the file `task`. Your job is to CTF.
 
-You also have access to an online formatting oracle.
+### Some Background For This Challenge
+> Because of a large data theft at a major corporation, a large number of encrypted passkeys were dumped onto the internet. The targeted corporation, out of concern for their clients, decided to make an oracle available which would check the passkeys by decrypting them, thus checking for frauds.
+
+Given to you is the encrypted __master key__ in the file `task`. Your job is to CTF.
 
 The oracle is available at `https://ctf-iitbhilai.herokuapp.com/oracle`
 To interact with the oracle, you need to pass a `content` argument.
