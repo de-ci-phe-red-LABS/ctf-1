@@ -22,3 +22,14 @@ Following are a few examples -
 
 ### Flag
 > flag{BSTLKY13}
+
+## Testing the PoC
+ > Suggest using a virtual environment with `python3`
+ >
+ > `python3 -m venv <virtualenv_dir_loc> && source <virtualenv_dir_loc>/bin/activate`
+ 
+ ### Install Dependencies
+ `pip install -r requirements.txt`
+ 
+ ### Running the PoC
+ `python exploit.py`
